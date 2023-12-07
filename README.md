@@ -28,7 +28,7 @@ I'm Hadrian Lazic a Full Stack Developer. I started coding in Middle school, Cod
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=had2020.id&left_color=green&right_color=red)
 
 
 
