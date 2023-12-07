@@ -25,13 +25,6 @@ I'm Hadrian Lazic a Full Stack Developer. I started coding in Middle school, Cod
 - :paperclip: [My Resume/CV](https://google.com) - todo
 - :email: hadrian.lazic@gmail.com
 
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=had2020.id&left_color=green&right_color=red)
-
-
-
 More stuff about me 
 I Have worked on the 3 major game engines to at least a intermediate level 
 | Godot - Insane level | Unreal Engine -Great | Unity - Bien |
