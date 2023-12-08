@@ -35,7 +35,7 @@ get a TECH JOB where I could work with many other people.
 
 Have a Wonderful day! :D
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=had2020&langs_count=8)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=had2020&size_weight=1&count_weight=1)
 
