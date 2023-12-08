@@ -4,7 +4,7 @@
 
 I'm Hadrian Lazic a Full Stack Developer. I started coding in Middle school, Code many things I mostly code Video games, Python and AI
 
-:mailbox: Contact Me! 
+:mailbox: Contact Me!!!
 
 ### What I currently Do
 
