@@ -37,6 +37,4 @@ Have a Wonderful day! :D
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=had2020&langs_count=8)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=had2020&size_weight=1&count_weight=1)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=had2020&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
