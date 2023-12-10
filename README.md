@@ -9,7 +9,7 @@ I'm Hadrian Lazic a Full Stack Developer. I started coding in Middle school, Cod
 :mailbox: Contact Me!!!
 
 ## why I write heavy documentation
-I write very heavy documentation within my projects so both you and I can learn something.
+I write very heavy documentation within my projects, so both you and I can learn something.
 
 ### What I currently Do
 
