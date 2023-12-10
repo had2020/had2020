@@ -1,5 +1,7 @@
 ## Hi I'm Hadrian <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
+🚀 check out my itch.io page for other games https://had2023.itch.io/
+
 🚀 Check out my sidequest games for meta headsets https://sidequestvr.com/user/77472
 
 I'm Hadrian Lazic a Full Stack Developer. I started coding in Middle school, Code many things I mostly code Video games, Python and AI
