@@ -24,7 +24,7 @@ I write very heavy documentation within my projects, so both you and I can learn
 
 #### My work 
 
-- https://github.com/had2020/Godot-4-Text-editor
+- https://stackoverflow.com/users/24752377/hadrian-lazic
 - https://sidequestvr.com/app/5140/hyper-legends
 
 
