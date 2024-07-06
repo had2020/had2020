@@ -8,7 +8,7 @@ Hi, I'm Hadrian (Had2023)! I'm a Full Stack Developer with a passion for video g
 🚀 Check out my sidequest games for meta headsets https://sidequestvr.com/user/77472
 
 ## Get in Touch
-Email: [hadrian.lazic@[your-email-address]-here](mailto:%1D)
+Email: hadrian.lazic@gmail.com
 
 ## why I write heavy documentation
 I write very heavy documentation within my projects, so both you and I can learn something.
