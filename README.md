@@ -34,11 +34,7 @@ I write very heavy documentation within my projects, so both you and I can learn
 - :email: hadrian.lazic@gmail.com
 
 ### More stuff about me
-I work on a full tech stack daily since highschool.
-I made many projects all with common technologies, used in modern day projects.
-I have experiance in Backend with Python, Flask, OpenAI, Tensorflow, torch, and Django.
-I also have experiance in Frontend with React JS, and of course Html/Css and JS.
-I have also used SQL databases in my projects and learned some handy SQL lite. 
+I’ve been working on a full tech stack since high school, and I’ve built a bunch of projects using common technologies that are still relevant today. I’m particularly skilled in backend development with Python, Flask, OpenAI, Tensorflow, torch, and Django. I’m also comfortable with frontend development using React JS, HTML/CSS, and JavaScript. I’ve also used SQL databases in my projects and learned some handy SQLite tricks. 
 
 I love technology ESPECIALLY DIY Tech! But on a calmer note I love coding and learning new technology. I would LOVE 
 get a TECH JOB where I could work with many other people. 
@@ -48,12 +44,16 @@ get a TECH JOB where I could work with many other people.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=had2020&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ### My history so far
-Throughout my coding journey, I've actively engaged in learning a variety of programming languages and technologies, continuously pushing my boundaries and exploring new possibilities. Starting with Python and Pygame in middle school, I developed a passion for game development and gradually progressed to more complex projects, including mobile games. By my third year, I had released several smaller games and even launched my first Real VR game, "Hyper Legends," a challenging multiplayer FPS game utilizing the Photon API. This project was a testament to my dedication and programming proficiency, given the complexity involved at the time.
+Throughout my coding journey, I’ve been on a mission to learn as many programming languages and technologies as possible. I’ve always been curious about how things work, and I love pushing my limits and exploring new ideas.
 
-As I began high school, I focused on mastering the Unreal Engine, which allowed me to create immersive VR experiences. I delved into complex code for multiplayer and VR environments, dedicating months to learning and refining these projects. By incorporating various physics elements and managing over 50 features in each project, I successfully crafted VR experiments that challenged me both intellectually and artistically.
+It all started when I was in middle school. I was fascinated by game development, so I started learning Python and Pygame. I made a few simple games, and I was hooked! I kept learning and making more complex games, including mobile games. By my third year of high school, I had released several smaller games and even launched my first Real VR game, “Hyper Legends.” It was a challenging multiplayer FPS game that used the Photon API. It was a big project, but I was proud of what I had accomplished.
 
-In my first and second years of high school, I explored the Godot engine, appreciating its lightweight and scalable nature for VR and mobile games. While familiar with other game engines, I gravitated toward Godot due to its readability and adaptability to diverse projects. During this period, I also transitioned to learning Python for web development, creating a basic Django web app with a database.
+As I got into high school, I wanted to learn more about creating immersive VR experiences. I started learning the Unreal Engine, which allowed me to make VR games that felt real. I spent months learning and working on these projects, and I was really impressed with what I could do. I even managed to incorporate some physics elements and manage over 50 features in each project. It was a lot of work, but it was also a lot of fun.
 
-I had the opportunity to participate in a hackathon, where I took on a leadership role, guiding newer developers through coding HTML/CSS for the frontend. I developed the backend using Python Flask, implementing a database-integrated account system and a chat system linked with user accounts. I also created web pages for my code while assisting others in building the codebase.
+In my first and second years of high school, I also explored the Godot engine. I liked it because it was lightweight and scalable, making it a good choice for VR and mobile games. I was also familiar with other game engines, but I chose Godot because it was easy to read and adaptable to different projects.
 
-In the summer before my third year of high school, I focused on enhancing my skills by learning React and deepening my knowledge of the full tech stack. Currently, I am working on modern websites using React and Python Flask, continually refining my skills and setting new goals. My aim is to create a fully-featured hub for my existing tools and new developments, ultimately building a user base to support future innovations.
+During this time, I also started learning Python for web development. I created a basic Django web app with a database. It was a great way to learn Python and to get a feel for web development.
+
+I also had the chance to participate in a hackathon, where I took on a leadership role and helped newer developers learn how to code HTML/CSS for the frontend. I also developed the backend using Python Flask, which allowed me to create a database-integrated account system and a chat system that was linked to user accounts. I also created web pages for my code while helping others build the codebase.
+
+In the summer before my third year of high school, I focused on learning React and deepening my knowledge of the full tech stack. I’m currently working on modern websites using React and Python Flask, and I’m constantly refining my skills and setting new goals. My goal is to create a fully-featured hub for my existing tools and new developments, and I want to build a user base to support future innovations.
