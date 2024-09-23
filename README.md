@@ -34,7 +34,7 @@ I write very heavy documentation within my projects, so both you and I can learn
 - :email: hadrian.lazic@gmail.com
 
 ### More stuff about me
-I’ve been working on a full tech stack since high school, and I’ve built a bunch of projects using common technologies that are still relevant today. I’m particularly skilled in backend development with Python, Flask, OpenAI, Tensorflow, torch, and Django. I’m also comfortable with frontend development using React JS, HTML/CSS, and JavaScript. I’ve also used SQL databases in my projects and learned some handy SQLite tricks. 
+I’ve been working on a full tech stack since high school, and I’ve built a bunch of projects using common technologies that relevant today. I’m particularly skilled in backend development with Python, Flask, OpenAI, Tensorflow, torch, and Django. I’m also comfortable with frontend development using React JS, HTML/CSS, and JavaScript. I’ve also used SQL databases in my projects and learned some handy SQLite tricks. 
 
 I love technology ESPECIALLY DIY Tech! But on a calmer note I love coding and learning new technology. I would LOVE 
 get a TECH JOB where I could work with many other people. 
