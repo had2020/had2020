@@ -38,7 +38,12 @@ I’ve been working on a full tech stack since high school, and I’ve built a b
 
 I’m a huge fan of technology, especially DIY tech! But on a more chill note, I’m also really into coding and learning new tech. I’d love to get a tech job where I could work with a team of awesome people. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=had2020&langs_count=10)
+- Python - Flask - Django 
+- Html/Css
+- SQLite
+- Javascript - React JSX
+- C++ -Qt creator 
+- Golang/Go
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=had2020&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
