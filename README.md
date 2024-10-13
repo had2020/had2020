@@ -45,6 +45,8 @@ I’m a huge fan of technology, especially DIY tech! But on a more chill note, I
 - C++ - Ncurses - QTK+
 - Golang/Go
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=had2020&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=had2020&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ### My history so far
