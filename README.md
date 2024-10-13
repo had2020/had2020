@@ -42,7 +42,7 @@ I’m a huge fan of technology, especially DIY tech! But on a more chill note, I
 - Html/Css
 - SQLite
 - Javascript - React JSX
-- C++ - QTK+
+- C++ - Ncurses - QTK+
 - Golang/Go
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=had2020&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
