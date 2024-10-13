@@ -49,6 +49,8 @@ I’m a huge fan of technology, especially DIY tech! But on a more chill note, I
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=had2020&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
 ### My history so far
 Throughout my coding journey, I’ve been on a mission to learn as many programming languages and technologies as possible. I’ve always been curious about how things work, and I love pushing my limits and exploring new ideas.
 
