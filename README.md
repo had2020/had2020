@@ -49,8 +49,6 @@ I’m a huge fan of technology, especially DIY tech! But on a more chill note, I
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=had2020&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-
 ### My history so far
 Throughout my coding journey, I’ve been on a mission to learn as many programming languages and technologies as possible. I’ve always been curious about how things work, and I love pushing my limits and exploring new ideas.
 
@@ -67,3 +65,5 @@ I also had the chance to participate in a hackathon, where I took on a leadershi
 In the summer before my third year of high school, I focused on learning React and deepening my knowledge of the full tech stack. I’m currently working on modern websites using React and Python Flask, and I’m constantly refining my skills and setting new goals. My goal is to create a fully-featured hub for my existing tools and new developments, and I want to build a user base to support future innovations.
 
 After diving into Django and building a full-featured portfolio site complete with a blog to document my coding journey, I discovered a deep passion for C/C++. The low-level control it offered fascinated me, and within just a day of learning, I was able to create a program similar to the Vim text editor.
+
+![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
