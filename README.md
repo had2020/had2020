@@ -44,7 +44,7 @@ I’m a huge fan of technology, especially DIY tech! But on a more chill note, I
 - Javascript - React JSX
 - C++ - Ncurses - QTK+
 - Golang/Go
-- Rust - Iced
+- Rust - Iced - Rocket - Tauri - Dious - Glfw
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=had2020&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
