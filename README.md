@@ -5,22 +5,20 @@ Hi, I'm Hadrian (Had2023)! I'm a Full Stack Developer with a passion for video g
 
 🚀 feel free to check out my itch.io page for other games https://had2023.itch.io/
 
-🚀 feel free to check out my sidequest games for meta headsets https://sidequestvr.com/user/77472
-
 ## Get in Touch
 Email: hadrian.lazic@gmail.com
 Linkedin: www.linkedin.com/in/hadrian-lazic-3922b1277
 
-## why I write heavy documentation
-I write very heavy documentation within my projects, so both you and I can learn something.
+## why I prefer heavy documentation
+I prefer to make heavy documentation within my projects, so both you and I can learn something.
 
 ### What I currently Do
 
 - 🔭 I’m currently working on a Godot 4 games
 - :life: Most used line of code while Living: code
-- 🤔 I’m currently looking for projects to work on
+- 🤔 I’m currently looking for projects to work on, and making my own while waiting
 - 📫 How to reach me: hadrian.lazic@gmail.com
-- ⚡ Fun fact: I love to make and play VR games ESPECIALLY my OWN!
+- ⚡ Fun fact: I love to make and play games ESPECIALLY my OWN!
 - Youtube: https://www.youtube.com/channel/UC9Q6CODBBOVBXS1HVdDGSBQ
 
 #### My Video Game work on itch 
@@ -66,3 +64,5 @@ I also had the chance to participate in a hackathon, where I took on a leadershi
 In the summer before my third year of high school, I focused on learning React and deepening my knowledge of the full tech stack. I’m currently working on modern websites using React and Python Flask, and I’m constantly refining my skills and setting new goals. My goal is to create a fully-featured hub for my existing tools and new developments, and I want to build a user base to support future innovations.
 
 After diving into Django and building a full-featured portfolio site complete with a blog to document my coding journey, I discovered a deep passion for C/C++. The low-level control it offered fascinated me, and within just a day of learning, I was able to create a program similar to the Vim text editor. Then I explored Golang and Rust, and discovered their use cases.
+
+Around this time I have also started playing with making digial art, for my own games, and projects.
