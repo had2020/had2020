@@ -49,20 +49,20 @@ I’m a huge fan of technology, especially DIY tech! But on a more chill note, I
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=had2020&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ### My history so far
-Throughout my coding journey, I’ve been on a mission to learn as many programming languages and technologies as possible. I’ve always been curious about how things work, and I love pushing my limits and exploring new ideas.
+# Getting Started: Middle School Beginnings
+My coding journey began in **middle school**, where I learned **Python** and **Pygame** to create simple games. This sparked my passion for development, and by high school, I had released smaller games, including *Hyper Legends*, a multiplayer VR FPS using the **Photon API**.
 
-It all started when I was in middle school. I was fascinated by game development, so I started learning Python and Pygame. I made a few simple games, and I was hooked! I kept learning and making more complex games, including mobile games. By my third year of high school, I had released several smaller games and even launched my first Real VR game, “Hyper Legends.” It was a challenging multiplayer FPS game that used the Photon API. It was a big project, but I was proud of what I had accomplished.
+---
 
-As I got into high school, I wanted to learn more about creating immersive VR experiences. I started learning the Unreal Engine, which allowed me to make VR games that felt real. I spent months learning and working on these projects, and I was really impressed with what I could do. I even managed to incorporate some physics elements and manage over 50 features in each project. It was a lot of work, but it was also a lot of fun.
+# Expanding Skills: High School and VR Projects
+In **high school**, I explored **Unreal Engine** for immersive VR projects with physics elements and used the lightweight **Godot engine** for mobile and VR games. During this time, I also led a **hackathon team**, building a backend with **Python Flask** to integrate databases and user accounts.
 
-In my first and second years of high school, I also explored the Godot engine. I liked it because it was lightweight and scalable, making it a good choice for VR and mobile games. I was also familiar with other game engines, but I chose Godot because it was easy to read and adaptable to different projects.
+---
 
-During this time, I also started learning Python for web development. I created a basic Django web app with a database. It was a great way to learn Python and to get a feel for web development.
+# Web Development: From Django to Full-Stack Projects
+For web development, I created a **Django app** and a portfolio site with a blog documenting my coding progress. I later advanced to **React** and **Flask**, working on full-stack projects and refining my **tech stack**.
 
-I also had the chance to participate in a hackathon, where I took on a leadership role and helped newer developers learn how to code HTML/CSS for the frontend. I also developed the backend using Python Flask, which allowed me to create a database-integrated account system and a chat system that was linked to user accounts. I also created web pages for my code while helping others build the codebase.
+---
 
-In the summer before my third year of high school, I focused on learning React and deepening my knowledge of the full tech stack. I’m currently working on modern websites using React and Python Flask, and I’m constantly refining my skills and setting new goals. My goal is to create a fully-featured hub for my existing tools and new developments, and I want to build a user base to support future innovations.
-
-After diving into Django and building a full-featured portfolio site complete with a blog to document my coding journey, I discovered a deep passion for C/C++. The low-level control it offered fascinated me, and within just a day of learning, I was able to create a program similar to the Vim text editor. Then I explored Golang and Rust, and discovered their use cases.
-
-Around this time I have also started playing with making digial art, for my own games, and projects.
+# Low-Level Programming: C/C++ and Rust
+Diving into systems programming, I discovered a love for **C/C++** and quickly built a Vim-like text editor. This passion expanded to **Rust**, where I now explore its low-level power and versatility.
