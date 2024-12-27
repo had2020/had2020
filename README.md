@@ -24,7 +24,7 @@ I prefer to make heavy documentation within my projects, so both you and I can l
 #### My Video Game work on itch 
 
 - https://had2023.itch.io/clunky-ball
-- [https://had2023.itch.io/godot-breakout](https://had2023.itch.io/clone-rider)
+- https://had2023.itch.io/clone-rider
 
 
 #### Bizness
