@@ -32,7 +32,7 @@ I prefer to make heavy documentation within my projects, so both you and I can l
 - :email: hadrian.lazic@gmail.com
 
 ### More stuff about me
-I’ve been working on a full tech stack since high school, and I’ve built a bunch of projects using common technologies that very relevant nowadays. I’m particularly skilled in backend development with Python, Flask, OpenAI, Tensorflow, torch, and Django. I’m also comfortable with frontend development using React JS, HTML/CSS, and JavaScript. I’ve also used SQL databases in my projects and learned some handy SQLite tricks. 
+I’ve been working on a full tech stack since high school, and I’ve built a bunch of projects using common technologies that very relevant nowadays. I’m particularly skilled in Rust backend development with Python, Flask, OpenAI, Tensorflow, torch, and Django. I’m also comfortable with frontend development using React JS, HTML/CSS, and JavaScript. I’ve also used SQL databases in my projects and learned some handy SQLite tricks. Rust is always the best for me!
 
 I’m a huge fan of technology, especially DIY tech! But on a more chill note, I’m also really into coding and learning new tech. I’d love to get a tech job where I could work with a team of awesome people. 
 
@@ -41,7 +41,6 @@ I’m a huge fan of technology, especially DIY tech! But on a more chill note, I
 - SQLite
 - Javascript - React JSX
 - C++ - Ncurses - QTK+
-- Golang/Go
 - Rust - Iced - Rocket - Tauri - Dious - Glfw
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=had2020&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
