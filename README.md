@@ -3,8 +3,6 @@
 ## About Me
 Hi, I'm Hadrian (Had2023)! Im a low level focued developer how loves to reinvent the wheel in Rust.
 
-🚀 feel free to check out my itch.io page for other games https://had2023.itch.io/
-
 ## Get in Touch
 Email: hadrian.lazic@gmail.com
 Linkedin: www.linkedin.com/in/hadrian-lazic-3922b1277
@@ -25,6 +23,7 @@ I prefer to make heavy documentation within my projects, so both you and I can l
 
 - https://had2023.itch.io/clunky-ball
 - https://had2023.itch.io/clone-rider
+- 🚀 feel free to check out my itch.io page for other games https://had2023.itch.io/
 
 
 #### Bizness
