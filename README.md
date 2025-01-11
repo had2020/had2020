@@ -2,20 +2,24 @@
 
 ### Vists:  <img src="https://profile-counter.glitch.me/{had2020}/count.svg" alt="had2020 :: Visitor's Count" />
 
-## About Me
+---
+
+## About Me 👤
 Hi, I'm Hadrian (Had2023)! Im a low level focued developer how loves to reinvent the wheel in Rust.
 
-## Get in Touch
+## Get in Touch 📲
 Email: hadrian.lazic@gmail.com
 Linkedin: www.linkedin.com/in/hadrian-lazic-3922b1277
 
-## why I prefer heavy documentation
-I prefer to make heavy documentation within my projects, so both you and I can learn something.
+## why I prefer heavy documentation 📝
+I prefer to make heavy documentation within my projects, to make life easier!
+
+---
 
 ### What I currently Do
 
 - 🔭 I’m currently working on a Godot 4 games
-- :life: Most used line of code while Living: code
+- :life: Most used line of code **while Living: code**
 - 🤔 I’m currently looking for projects to work on, and making my own while waiting
 - 📫 How to reach me: hadrian.lazic@gmail.com
 - ⚡ Fun fact: I love to make and play games ESPECIALLY my OWN!
@@ -32,17 +36,23 @@ I prefer to make heavy documentation within my projects, so both you and I can l
 - :paperclip: [My Resume/CV](https://google.com) - //todo
 - :email: hadrian.lazic@gmail.com
 
+---
+
 ### More stuff about me
-I’ve been working on a full tech stack since high school, and I’ve built a bunch of projects using common technologies that very relevant nowadays. I’m particularly skilled in Rust backend development with Python, Flask, OpenAI, Tensorflow, torch, and Django. I’m also comfortable with frontend development using React JS, HTML/CSS, and JavaScript. I’ve also used SQL databases in my projects and learned some handy SQLite tricks. Rust is always the best for me!
+I’ve been working on a full tech stack since high school, and I’ve built a bunch of projects using common technologies that very relevant nowadays. I’m particularly skilled in Rust backend development with I love using Rust the most, and Python, Flask, OpenAI, Tensorflow, torch, and Django. I’m also comfortable with frontend development using React JS, HTML/CSS, and JavaScript. I’ve also used SQL databases in my projects and learned some handy SQLite tricks. Rust is always the best for me!
 
 I’m a huge fan of technology, especially DIY tech! But on a more chill note, I’m also really into coding and learning new tech. I’d love to get a tech job where I could work with a team of awesome people. 
 
-- Python - Flask - Django 
-- Html/Css
-- SQLite
+---
+
+- Python - Flask - Django - Tensorflow - Numpy
+- Html/Css - Tailwind css
+- SQLite -Postgre - MongoDB
 - Javascript - React JSX
 - C++ - Ncurses - QTK+
-- Rust - Iced - Rocket - Tauri - Dioxus - Glfw - Tokio - Threads - Minifb
+- ❤️ **Rust - Iced - Rocket - Tauri - Dioxus - Glfw - Tokio - Threads - Minifb - Crates - Serde - Tokio Reqwest - Actix -Anyhow -Chrono - Std - Quote - Syn - Rusttype -gl - Minifb -Freetype-rs - Tensorflow -Solana-program**
+
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=had2020&hide=html&theme=transparent)
 
@@ -65,6 +75,6 @@ For web development, I created a **Django app** and a portfolio site with a blog
 ---
 
 # Low-Level Programming: C/C++ and Rust
-Diving into systems programming, I discovered a love for **C/C++** and quickly built a Vim-like text editor. This passion expanded to **Rust**, where I now explore its low-level power and versatility.
+Diving into systems programming, I discovered a love for **C/C++** and quickly built a Vim-like text editor. This passion expanded to **Rust**, where I now explore its low-level power and versatility, and creating my own **Crates**.
 
 <img src="https://github-profile-trophy.vercel.app/?username=had2020&theme=juicyfresh&no-bg=true" />
