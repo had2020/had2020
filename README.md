@@ -1,4 +1,6 @@
-## Hello I'm Hadrian Lazic <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## Hello I'm Hadrian Lazic <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> [![Codewars Badge](https://www.codewars.com/users/had2020/badges/large)](https://www.codewars.com/users/dhanushka)
+
+### Vists:  <img src="https://profile-counter.glitch.me/{had2020}/count.svg" alt="had2020 :: Visitor's Count" />
 
 ## About Me
 Hi, I'm Hadrian (Had2023)! Im a low level focued developer how loves to reinvent the wheel in Rust.
@@ -27,7 +29,7 @@ I prefer to make heavy documentation within my projects, so both you and I can l
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://google.com) - todo
+- :paperclip: [My Resume/CV](https://google.com) - //todo
 - :email: hadrian.lazic@gmail.com
 
 ### More stuff about me
@@ -42,9 +44,9 @@ I’m a huge fan of technology, especially DIY tech! But on a more chill note, I
 - C++ - Ncurses - QTK+
 - Rust - Iced - Rocket - Tauri - Dioxus - Glfw - Tokio - Threads - Minifb
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=had2020&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=had2020&hide=html&theme=transparent)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=had2020&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=had2020&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)
 
 ### My history so far
 # Getting Started: Middle School Beginnings
@@ -64,3 +66,5 @@ For web development, I created a **Django app** and a portfolio site with a blog
 
 # Low-Level Programming: C/C++ and Rust
 Diving into systems programming, I discovered a love for **C/C++** and quickly built a Vim-like text editor. This passion expanded to **Rust**, where I now explore its low-level power and versatility.
+
+<img src="https://github-profile-trophy.vercel.app/?username=had2020&theme=juicyfresh&no-bg=true" />
