@@ -5,7 +5,7 @@
 ---
 
 ## About Me 👤
-Hi, I'm Hadrian (Had2023)! Im a low level focued developer how loves to reinvent the wheel in Rust.
+Hi, I'm Hadrian (Had2023)! Im a low level focued developer how loves to reinvent the wheel better in Rust.
 
 ## Get in Touch 📲
 Email: hadrian.lazic@gmail.com
@@ -16,7 +16,7 @@ I prefer to make heavy documentation within my projects, to make life easier!
 
 ---
 
-### What I currently Do
+### What I currently Do 🔨
 
 - 🔭 I’m currently working on a Godot 4 games
 - :life: Most used line of code **while Living: code**
@@ -25,23 +25,23 @@ I prefer to make heavy documentation within my projects, to make life easier!
 - ⚡ Fun fact: I love to make and play games ESPECIALLY my OWN!
 - Youtube: https://www.youtube.com/channel/UC9Q6CODBBOVBXS1HVdDGSBQ
 
-#### My Video Game work on itch 
+#### My Video Game work on itch 🎮
 
 - https://had2023.itch.io/clunky-ball
 - https://had2023.itch.io/clone-rider
 - 🚀 feel free to check out my itch.io page for other games https://had2023.itch.io/
 
 
-#### Bizness
+#### Bizness 📧
 - :paperclip: [My Resume/CV](https://google.com) - //todo
 - :email: hadrian.lazic@gmail.com
 
 ---
 
-### More stuff about me
-I’ve been working on a full tech stack since high school, and I’ve built a bunch of projects using common technologies that very relevant nowadays. I’m particularly skilled in Rust backend development with I love using Rust the most, and Python, Flask, OpenAI, Tensorflow, torch, and Django. I’m also comfortable with frontend development using React JS, HTML/CSS, and JavaScript. I’ve also used SQL databases in my projects and learned some handy SQLite tricks. Rust is always the best for me!
+### More stuff about me 👤
+I’ve been working on a full tech stack since high school, and I’ve built a bunch of projects using common technologies that very relevant nowadays. I’m particularly skilled in many Rust tools, which I use in my Crate framworks.
 
-I’m a huge fan of technology, especially DIY tech! But on a more chill note, I’m also really into coding and learning new tech. I’d love to get a tech job where I could work with a team of awesome people. 
+I’m a huge fan of technology, especially DIY tech! I’m also really into coding and learning new tech. I’d love to get a tech job where I could work with a team of awesome people. 
 
 ---
 
