@@ -1,80 +1,144 @@
-## Hello I'm Hadrian Lazic <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> [![Codewars Badge](https://www.codewars.com/users/had2020/badges/large)](https://www.codewars.com/users/had2020)
+# Hello, I'm Hadrian Lazic <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">  
+[![Codewars Badge](https://www.codewars.com/users/had2020/badges/large)](https://www.codewars.com/users/had2020)
 
-### Vists:  <img src="https://profile-counter.glitch.me/{had2020}/count.svg" alt="had2020 :: Visitor's Count" />
-
----
-
-## About Me 👤
-Hi, I'm Hadrian (Had2023)! Im a low level focued developer how loves to reinvent the wheel better in Rust.
-
-## Get in Touch 📲
-Email: hadrian.lazic@gmail.com
-Linkedin: www.linkedin.com/in/hadrian-lazic-3922b1277
-
-## why I prefer heavy documentation 📝
-I prefer to make heavy documentation within my projects, to make life easier!
+### Visits:  
+<img src="https://profile-counter.glitch.me/{had2020}/count.svg" alt="had2020 :: Visitor's Count" />
 
 ---
 
-### What I currently Do 🔨
+## 👤 **About Me**
 
-- 🔭 I’m currently working on a Godot 4 games
-- :life: Most used line of code **while Living: code**
-- 🤔 I’m currently looking for projects to work on, and making my own while waiting
-- 📫 How to reach me: hadrian.lazic@gmail.com
-- ⚡ Fun fact: I love to make and play games ESPECIALLY my OWN!
-- Youtube: https://www.youtube.com/channel/UC9Q6CODBBOVBXS1HVdDGSBQ
-
-#### My Video Game work on itch 🎮
-
-- https://had2023.itch.io/clunky-ball
-- https://had2023.itch.io/clone-rider
-- 🚀 feel free to check out my itch.io page for other games https://had2023.itch.io/
-
-
-#### Bizness 📧
-- :paperclip: [My Resume/CV](https://google.com) - //todo
-- :email: hadrian.lazic@gmail.com
+Hi, I'm **Hadrian (Had2023)**!  
+I'm a **low-level-focused developer** who loves to reinvent the wheel and make it even better — especially in **Rust**. 🦀  
+Crafting elegant solutions with cutting-edge technologies is my passion. 
 
 ---
 
-### More stuff about me 👤
-I’ve been working on a full tech stack since high school, and I’ve built a bunch of projects using common technologies that very relevant nowadays. I’m particularly skilled in many Rust tools, which I use in my Crate framworks.
+## 📲 **Get in Touch**
 
-I’m a huge fan of technology, especially DIY tech! I’m also really into coding and learning new tech. I’d love to get a tech job where I could work with a team of awesome people. 
-
----
-
-- Python - Flask - Django - Tensorflow - Numpy
-- Html/Css - Tailwind css
-- SQLite -Postgre - MongoDB
-- Javascript - React JSX
-- C++ - Ncurses - QTK+
-- ❤️ **Rust - Iced - Rocket - Tauri - Dioxus - Glfw - Tokio - Threads - Minifb - Crates - Serde - Tokio Reqwest - Actix -Anyhow -Chrono - Std - Quote - Syn - Rusttype -gl - Minifb -Freetype-rs - Tensorflow -Solana-program**
+- ✉️ **Email**: [hadrian.lazic@gmail.com](mailto:hadrian.lazic@gmail.com)  
+- 💼 **LinkedIn**: [Hadrian Lazic](https://www.linkedin.com/in/hadrian-lazic-3922b1277)  
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=had2020&hide=html&theme=transparent)
+## Why I Prefer Heavy Documentation 📝
+> "Document everything to make life easier for everyone!"
 
+---
+
+## 🌟 **What I’m Currently Doing** 🔨
+
+### 🛠️ **Projects and Interests**
+- 🔭 Working on **Godot 4** games  
+- 💡 Favorite mantra: `while (Living) { code(); }`  
+
+### 🤝 **Collaboration**
+- 🤔 Seeking exciting projects to collaborate on!  
+
+### 📬 **Get in Touch**
+- 📫 **Email**: [hadrian.lazic@gmail.com](mailto:hadrian.lazic@gmail.com)  
+
+---
+
+
+### My Video Game Work on Itch.io 🎮
+- [Clunky Ball](https://had2023.itch.io/clunky-ball)  
+- [Clone Rider](https://had2023.itch.io/clone-rider)  
+- 🚀 Check out more of my creations on [itch.io](https://had2023.itch.io/)
+
+---
+
+## Bizness 📧
+- 📎 [My Resume/CV](https://google.com) (*Coming soon!*)  
+- ✉️ [hadrian.lazic@gmail.com](mailto:hadrian.lazic@gmail.com)
+
+---
+
+# ✨ **More About Me** 👤  
+
+I’m a **full-stack developer** driven by a passion for creating impactful projects, a journey I started in high school. With a strong curiosity and love for technology, I’ve honed my skills using **cutting-edge tools** to deliver meaningful solutions.
+
+💡 **Expertise Highlights**:  
+- 🌿 Mastery in **Rust** and its dynamic ecosystem, renowned for performance and safety.  
+- 🛠️ A fervent advocate of **DIY tech**, embracing innovation and creativity in every line of code.  
+
+🎯 **My Vision**:  
+I’m also really into coding and **learning new tech**. I’d love to get a tech job where I could work with a team of **awesome people**. 🚀
+
+---  
+
+
+# 🛠️ My Tech Stack  
+
+| **Category**             | **Tools and Frameworks**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**            | [Python](https://www.python.org) 🐍, [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 🌐, [C++](https://isocpp.org/) 💻, **❤️ [Rust](https://www.rust-lang.org/)** 🦀                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Python Frameworks**    | [Flask](https://github.com/pallets/flask) 🌟, [Django](https://github.com/django/django) 🌍, [TensorFlow](https://github.com/tensorflow/tensorflow) 🤖, [NumPy](https://github.com/numpy/numpy) 🔢                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Web Development**      | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)/[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) 🎨, [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) 🌈, [React.js](https://github.com/facebook/react) ⚛️, [Vue.js](https://github.com/vuejs/vue) 🖼️                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Databases**            | [SQLite](https://sqlite.org/index.html) 🗄️, [PostgreSQL](https://github.com/postgres/postgres) 🐘, [MongoDB](https://github.com/mongodb/mongo) 🍃                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **C++ Libraries**        | [Ncurses](https://github.com/mirror/ncurses) 🖥️, [Qt](https://github.com/qt) 🖌️                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Rust Ecosystem**       | [Iced](https://github.com/iced-rs/iced) 🧊, [Rocket](https://github.com/SergioBenitez/Rocket) 🚀, [Tauri](https://github.com/tauri-apps/tauri) 🌟, [Dioxus](https://github.com/DioxusLabs/dioxus) 🍃, [Glfw](https://github.com/glfw/glfw) 🖥️, [Tokio](https://github.com/tokio-rs/tokio) 🌐, [Minifb](https://github.com/emoon/rust-minifb) 📦, [Crates](https://crates.io/) 📚                                                                                                                                                                                                                                                                     |
+| **Rust Tools**           | [Serde](https://github.com/serde-rs/serde) 📦, [Tokio Reqwest](https://github.com/seanmonstar/reqwest) 🌐, [Actix](https://github.com/actix/actix-web) 📡, [Anyhow](https://github.com/dtolnay/anyhow) ❓, [Chrono](https://github.com/chronotope/chrono) 🕒, [Std](https://doc.rust-lang.org/std/index.html) 📖                                                                                                                                                                                                                                                                                                                                                     |
+| **Other Rust Goodies**   | [Quote](https://github.com/dtolnay/quote) ✍️, [Syn](https://github.com/dtolnay/syn) ⚙️, [Rusttype](https://github.com/redox-os/rusttype) 🖋️, [gl](https://github.com/brendanzab/gl-rs) 🌐, [Freetype-rs](https://github.com/PistonDevelopers/freetype-rs) ✏️                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Blockchain Development** | [Solana-program](https://github.com/solana-labs/solana) 🔗                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
+---
+
+> *"I love exploring technologies that push the boundaries of creativity and efficiency!"* 🌟  
+
+---
+
+
+
+## GitHub Stats 📊
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=had2020&hide=html&theme=transparent)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=had2020&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)
 
-### My history so far
-# Getting Started: Middle School Beginnings
-My coding journey began in **middle school**, where I learned **Python** and **Pygame** to create simple games. This sparked my passion for development, and by high school, I had released smaller games, including *Hyper Legends*, a multiplayer VR FPS using the **Photon API**.
+---
+
+# 🌟 My Coding Journey 🚀
 
 ---
 
-# Expanding Skills: High School and VR Projects
-In **high school**, I explored **Unreal Engine** for immersive VR projects with physics elements and used the lightweight **Godot engine** for mobile and VR games. During this time, I also led a **hackathon team**, building a backend with **Python Flask** to integrate databases and user accounts.
+## 🏫 Middle School Beginnings  
+🎮 My passion for coding began in **middle school** with **Python** and **Pygame**, where I created simple games.  
+🌱 This kickstarted a lifelong journey of **creativity** and **problem-solving**, sparking my love for development.
 
 ---
 
-# Web Development: From Django to Full-Stack Projects
-For web development, I created a **Django app** and a portfolio site with a blog documenting my coding progress. I later advanced to **React** and **Flask**, working on full-stack projects and refining my **tech stack**.
+## 🎓 High School Adventures  
+💻 During **high school**, I immersed myself in **VR development**, leveraging tools like:  
+- **Unreal Engine** 🛠️ for immersive, physics-based VR projects  
+- **Godot** 🌍 for lightweight mobile and VR games  
+
+👨‍💻 I also led a **hackathon team**, where we built:  
+- **Robust backends** with **Python Flask** 🔗  
+- Full-stack solutions integrating **databases** and **user accounts** 🗄️  
 
 ---
 
-# Low-Level Programming: C/C++ and Rust
-Diving into systems programming, I discovered a love for **C/C++** and quickly built a Vim-like text editor. This passion expanded to **Rust**, where I now explore its low-level power and versatility, and creating my own **Crates**.
+## 🌐 Full-Stack Development  
+🔧 Mastering **Django**, I crafted a **portfolio site** with an integrated blog, showcasing my journey.  
+🌟 I then advanced to **React** and **Flask**, building:  
+- Scalable **full-stack applications** 🔄  
+- Polished, modern web solutions 💡  
 
+---
+
+## ⚙️ Low-Level Programming  
+🛠️ Exploring **C/C++**, I discovered a passion for **systems programming** and built:  
+- A **Vim-like text editor**, flexing my low-level coding skills ✍️  
+
+🦀 This evolved into a deep love for **Rust**, where I now:  
+- Create **high-performance crates** 📦  
+- Explore the power and versatility of this **low-level powerhouse** 🔥  
+
+---
+
+> ✨ *"From crafting simple games to exploring the depths of low-level programming, my coding journey has been a thrilling adventure of learning and creating. The best is yet to come!"* 🚀
+
+---
+
+
+### 🏆 Achievements
 <img src="https://github-profile-trophy.vercel.app/?username=had2020&theme=juicyfresh&no-bg=true" />
