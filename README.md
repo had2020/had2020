@@ -1,26 +1,25 @@
 # Hello, I'm Hadrian Lazic <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-[![Codewars Badge](https://www.codewars.com/users/had2020/badges/large)](https://www.codewars.com/users/had2020)
+| [![Codewars Badge](https://www.codewars.com/users/had2020/badges/large)](https://www.codewars.com/users/had2020) |
+|---|
 
-### Visits: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="25" height="25" />
-
-<img src="https://profile-counter.glitch.me/{had2020}/count.svg" alt="had2020 :: Visitor's Count" />
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> **About Me**
-
-Hi, I'm **Hadrian (Had2020)** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" alt="Backhand Index Pointing Right" width="25" height="25" />
-**low-level-focused developer** love reinventing the wheel, for the experience<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="25" height="25" /> — especially in **Rust**. 🦀
+| **Visits**: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="25" height="25" /> |
+|---|
+| <img src="https://profile-counter.glitch.me/{had2020}/count.svg" alt="had2020 :: Visitor's Count" /> |
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="25" height="25" /> **Get in Touch** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" />
+| <span style="color:cyan; font-weight:bold;">**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> About Me**</span> |
+|---|
+| Hi, I'm **Hadrian (Had2020)** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" alt="Backhand Index Pointing Right" width="25" height="25" /> **low-level-focused developer** who loves reinventing the wheel, for the experience <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="25" height="25" /> — especially in **Rust**. 🦀 |
 
-- ✉️ **Email**: [hadrian.lazic@gmail.com](mailto:hadrian.lazic@gmail.com)
-- 💼 **LinkedIn**: [Hadrian Lazic](https://www.linkedin.com/in/hadrian-lazic-3922b1277)
+---
 
-- Looking for any collaboration <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="25" height="25" />
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="25" height="25" /> **Get in Touch** |
+|---|
+| ✉️ **Email**: [hadrian.lazic@gmail.com](mailto:hadrian.lazic@gmail.com) |
+| 💼 **LinkedIn**: [Hadrian Lazic](https://www.linkedin.com/in/hadrian-lazic-3922b1277) |
+| 👀 Looking for any collaboration <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="25" height="25" /> |
 
 ---
 
@@ -30,18 +29,18 @@ Hi, I'm **Hadrian (Had2020)** <img src="https://raw.githubusercontent.com/Tariku
 
 ---
 
-### My Video Game Work on Itch.io <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" />
-
-- [Clunky Ball](https://had2023.itch.io/clunky-ball)
-- [Clone Rider](https://had2023.itch.io/clone-rider)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> Check out more of my creations on [itch.io](https://had2023.itch.io/)
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" /> **My Video Game Work on Itch.io** |
+|---|
+| - [Clunky Ball](https://had2023.itch.io/clunky-ball) |
+| - [Clone Rider](https://had2023.itch.io/clone-rider) |
+| 🚀 Check out more of my creations on [itch.io](https://had2023.itch.io/) |
 
 ---
 
-## Bizness 📧
-
-- 📎 [My Resume/CV](https://google.com) (_Coming soon!_) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Writing%20Hand.webp" alt="Writing Hand" width="25" height="25" />
-- ✉️ [hadrian.lazic@gmail.com](mailto:hadrian.lazic@gmail.com) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25" height="25" />
+| **Bizness** 📧 |
+|---|
+| 📎 [My Resume/CV](https://google.com) (_Coming soon!_) ✍️ |
+| ✉️ [hadrian.lazic@gmail.com](mailto:hadrian.lazic@gmail.com) 💬 |
 
 ---
 
@@ -88,55 +87,74 @@ I’m also really into coding and **learning new tech**. I’d love to get a tec
   </a>
 </div>
 
----
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="25" height="25" /> My Coding Journey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Hourglass%20Not%20Done.webp" alt="Hourglass Not Done" width="25" height="25" />
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Classical%20Building.webp" alt="Classical Building" width="25" height="25" /> Middle School Beginnings
-
-🎮 My passion for coding began in **middle school** with **Python** and **Pygame**, where I created simple games.  
-🌱 This kickstarted a lifelong journey of **creativity** and **problem-solving**, sparking my love for development.
+# 🚀 **My Coding Odyssey** 🌌  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="30" height="30" />  
+*"Turning dreams into reality, one line of code at a time."*  
 
 ---
 
-## 🎓 High School Adventures
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Classical%20Building.webp" alt="Classical Building" width="30" height="30" /> **Humble Beginnings in Middle School**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> During **high school**, I immersed myself in **VR development**, leveraging tools like:
-
-- **Unreal Engine** 🛠️ for immersive, physics-based VR projects
-- **Godot** 🌍 for lightweight mobile and VR games
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" /> I also led a **hackathon team**, where we built:
-
-- **Robust backends** with **Python Flask** 🔗
-- Full-stack solutions integrating **databases** and **user accounts** 🗄️
+🎮 **The Genesis**: My coding adventure started in **middle school**, where curiosity met creativity.  
+✨ Using **Python** and **Pygame**, I brought simple games to life, diving headfirst into the world of **logic and innovation**.  
+🌟 This early exploration laid the foundation for my **love of technology** and **problem-solving**.
 
 ---
 
-## 🌐 Full-Stack Development
+## 🎓 **High School Chronicles: Expanding Horizons**
 
-🔧 Mastering **Django**, I crafted a **portfolio site** with an integrated blog, showcasing my journey.  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Star.webp" alt="Star" width="25" height="25" /> I then advanced to **React** and **Flask**, building:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="30" height="30" /> **Breaking Barriers**: High school was my **launchpad**, where I experimented with cutting-edge technologies:  
 
-- Scalable **full-stack applications** 🔄
-- Polished, modern web solutions 💡
+### 🛠️ **Virtual Reality Innovator**:  
+- 🌌 **Unreal Engine**: Developed immersive **physics-based VR projects** that amazed and inspired.  
+- 🌍 **Godot Engine**: Created seamless **lightweight VR and mobile games**, blending functionality with fun.  
+
+### 🚀 **Hackathon Hero**:  
+Led an **amazing team**, where we crafted:  
+- 🔗 **Robust Backends**: Powered by **Python Flask** for seamless integration.  
+- 🗄️ **Full-Stack Solutions**: Featuring **databases**, **user accounts**, and a focus on scalability.  
+
+---
+
+## 🌐 **Full-Stack Mastery: Building the Future**
+
+🔧 **Crafting Excellence**: I mastered **Django**, creating an elegant **portfolio site** with a dynamic blog.  
+✨ This evolved into my journey into **modern web development**, where I:  
+
+- 🔄 Built **scalable full-stack applications** using **React** and **Flask**.  
+- 💡 Delivered **polished, user-friendly web solutions** that blend style with substance.  
 
 ---
 
-## ⚙️ Low-Level Programming <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Growing%20Heart.webp" alt="Growing Heart" width="25" height="25" />
+## ⚙️ **Low-Level Wizardry: Unlocking the Core**
 
-🛠️ Exploring **C/C++**, I discovered a passion for **systems programming** and built:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Growing%20Heart.webp" alt="Growing Heart" width="30" height="30" /> **Diving Deep**: My fascination with **C/C++** opened the door to a world of **low-level programming**.  
+✍️ A standout project? A custom **Vim-like text editor** that showcased my obsession with **efficiency and power**.  
 
-- A **Vim-like text editor**, flexing my low-level coding skills ✍️
+### 🦀 **Rust: The Future of Performance**  
+I found my coding soulmate in **Rust**, where I:  
+- 📦 Created **high-performance crates** to enhance developer experiences.  
+- 🔥 Built projects that harness **Rust’s unmatched speed, safety, and versatility**.  
 
-🦀 This evolved into a deep love for **Rust**, where I now:
-
-- Create **high-performance crates** 📦
-- Explore the power and versatility of this **low-level powerhouse** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" />
+🌟 **Code to me is art**—and I thrive on pushing the boundaries of what’s possible.
 
 ---
+
+### **What Drives Me** 🌟
+
+💻 **Passion for Innovation**: Technology isn’t just a tool—it’s a canvas for creativity.  
+🌍 **Vision for the Future**: I’m committed to solving real-world problems through elegant code.  
+🚀 **Unstoppable Growth**: Every project is a new chapter in an ever-evolving story.
+
+---
+
+### 🌐 **Let’s Collaborate**  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0078D4?style=flat&logo=MicrosoftEdge&logoColor=white)](https://yourportfolio.com)  
+
+✨ **Together, we can shape the future of technology.**
+
 
 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> _"From crafting simple games to exploring the depths of low-level programming, my coding journey has been a thrilling adventure of learning and creating. The best is yet to come!"_ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
 
