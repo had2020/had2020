@@ -1,62 +1,69 @@
-# Hello, I'm Hadrian Lazic <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+<h1 align="center">Hello, I'm Hadrian Lazic <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
 
-| [![Codewars Badge](https://www.codewars.com/users/had2020/badges/large)](https://www.codewars.com/users/had2020) |
-|---|
+<div align="center">
+  <a href="https://www.codewars.com/users/had2020">
+    <img src="https://www.codewars.com/users/had2020/badges/large" alt="Codewars Badge">
+  </a>
+</div>
 
-| **Visits**: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="25" height="25" /> |
-|---|
-| <img src="https://profile-counter.glitch.me/{had2020}/count.svg" alt="had2020 :: Visitor's Count" /> |
-
----
-
-| <span style="color:cyan; font-weight:bold;">**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> About Me**</span> |
-|---|
-| Hi, I'm **Hadrian (Had2020)** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" alt="Backhand Index Pointing Right" width="25" height="25" /> **low-level-focused developer** who loves reinventing the wheel, for the experience <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="25" height="25" /> — especially in **Rust**. 🦀 |
-
----
-
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="25" height="25" /> **Get in Touch** |
-|---|
-| ✉️ **Email**: [hadrian.lazic@gmail.com](mailto:hadrian.lazic@gmail.com) |
-| 💼 **LinkedIn**: [Hadrian Lazic](https://www.linkedin.com/in/hadrian-lazic-3922b1277) |
-| 👀 Looking for any collaboration <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="25" height="25" /> |
+<div align="center">
+  <h3>👀 Visitors</h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="25" height="25" />
+  <img src="https://profile-counter.glitch.me/{had2020}/count.svg" alt="Visitor Count">
+</div>
 
 ---
 
-## Why I Prefer Precise Documentation <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" alt="Blue Book" width="25" height="25" />
-
-> "Document everything to make life easier for everyone!" <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" />
-
----
-
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" /> **My Video Game Work on Itch.io** |
-|---|
-| - [Clunky Ball](https://had2023.itch.io/clunky-ball) |
-| - [Clone Rider](https://had2023.itch.io/clone-rider) |
-| 🚀 Check out more of my creations on [itch.io](https://had2023.itch.io/) |
+<h2>🧑‍💻 About Me</h2>
+<p>Hi, I'm <b>Hadrian (Had2020)</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" alt="Pointing Right" width="25" height="25" /> a <b>low-level-focused developer</b> passionate about reinventing the wheel for the experience <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="25" height="25" />—especially in <b>Rust</b> 🦀.</p>
 
 ---
 
-| **Bizness** 📧 |
-|---|
-| 📎 [My Resume/CV](https://google.com) (_Coming soon!_) ✍️ |
-| ✉️ [hadrian.lazic@gmail.com](mailto:hadrian.lazic@gmail.com) 💬 |
+<h2>📞 Get in Touch</h2>
+<ul>
+  <li>✉️ <b>Email:</b> <a href="mailto:hadrian.lazic@gmail.com">hadrian.lazic@gmail.com</a></li>
+  <li>💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/hadrian-lazic-3922b1277">Hadrian Lazic</a></li>
+  <li>👀 <b>Looking for collaborations!</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Eyes.webp" alt="Eyes" width="25" height="25" /></li>
+</ul>
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/White%20Question%20Mark.webp" alt="White Question Mark" width="25" height="25" /> **More About Me** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Sunglasses.webp" alt="Smiling Face With Sunglasses" width="25" height="25" />
-
-I’m a **full-stack developer** driven by a passion for creating impactful projects, a journey I started in high school. With a strong curiosity and love for technology, I’ve honed my skills using **cutting-edge tools** to deliver meaningful solutions.
-
-💡 **Expertise Highlights**:
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Herb.webp" alt="Herb" width="25" height="25" /> Mastery in **Rust** and its dynamic ecosystem, renowned for performance and safety. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Right.webp" alt="Magnifying Glass Tilted Right" width="25" height="25" />
-- 🛠️ A fervent advocate of **DIY tech**, embracing innovation and creativity in every line of code.
-
-🎯 **My Vision**:  
-I’m also really into coding and **learning new tech**. I’d love to get a tech job where I could work with a team of **awesome people**. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Cool%20Button.webp" alt="Cool Button" width="25" height="25" />
+<h2>📚 Why I Prefer Precise Documentation</h2>
+<blockquote>
+  <p>"Document everything to make life easier for everyone!" <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /></p>
+</blockquote>
 
 ---
+
+<h2>🎮 My Video Game Work on Itch.io</h2>
+<ul>
+  <li>🕹️ <a href="https://had2023.itch.io/clunky-ball">Clunky Ball</a></li>
+  <li>🚗 <a href="https://had2023.itch.io/clone-rider">Clone Rider</a></li>
+</ul>
+<p>🚀 Check out more of my creations on <a href="https://had2023.itch.io/">itch.io</a>.</p>
+
+---
+
+<h2>📧 Bizness</h2>
+<ul>
+  <li>📎 <a href="https://google.com">My Resume/CV</a> (_Coming soon!_)</li>
+  <li>✉️ <a href="mailto:hadrian.lazic@gmail.com">hadrian.lazic@gmail.com</a></li>
+</ul>
+
+---
+
+<h2>🤔 More About Me</h2>
+<p>I’m a <b>full-stack developer</b> driven by a passion for creating impactful projects. My coding journey started in high school, and I’ve honed my skills using <b>cutting-edge tools</b> to deliver meaningful solutions.</p>
+
+<h3>💡 Expertise Highlights</h3>
+<ul>
+  <li>🌿 Mastery in <b>Rust</b> and its dynamic ecosystem, renowned for performance and safety.</li>
+  <li>🛠️ Advocate of <b>DIY tech</b>, embracing innovation and creativity in every line of code.</li>
+</ul>
+
+<h3>🎯 My Vision</h3>
+<p>I’m passionate about coding and <b>learning new tech</b>. My goal is to work with a team of <b>awesome people</b> on innovative projects. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Cool%20Button.webp" alt="Cool Button" width="25" height="25" /></p>
+
 
 # 🛠️ My Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" alt="Check Mark Button" width="25" height="25" />
 
@@ -140,20 +147,23 @@ I found my coding soulmate in **Rust**, where I:
 
 ---
 
-### **What Drives Me** 🌟
-
-💻 **Passion for Innovation**: Technology isn’t just a tool—it’s a canvas for creativity.  
-🌍 **Vision for the Future**: I’m committed to solving real-world problems through elegant code.  
-🚀 **Unstoppable Growth**: Every project is a new chapter in an ever-evolving story.
+<h2 align="center">🌟 What Drives Me</h2>
+<ul>
+  <li>💻 <b>Passion for Innovation:</b> Technology isn’t just a tool it’s a canvas for creativity.</li>
+  <li>🌍 <b>Vision for the Future:</b> Committed to solving real world problems through elegant code.</li>
+  <li>🚀 <b>Unstoppable Growth:</b> Every project is a new chapter in an ever evolving story.</li>
+</ul>
 
 ---
 
-### 🌐 **Let’s Collaborate**  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0078D4?style=flat&logo=MicrosoftEdge&logoColor=white)](https://yourportfolio.com)  
+<h2 align="center">🌐 Let’s Collaborate</h2>
+<p align="center">
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=flat&logo=microsoftedge&logoColor=white" alt="Portfolio"></a>
+</p>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> **Together, we can shape the future of technology.**
+<p align="center"><i>✨ Together, we can shape the future of technology. ✨</i></p>
 
 
 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> _"From crafting simple games to exploring the depths of low-level programming, my coding journey has been a thrilling adventure of learning and creating. The best is yet to come!"_ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
