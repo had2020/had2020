@@ -153,7 +153,7 @@ I found my coding soulmate in **Rust**, where I:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0078D4?style=flat&logo=MicrosoftEdge&logoColor=white)](https://yourportfolio.com)  
 
-✨ **Together, we can shape the future of technology.**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> **Together, we can shape the future of technology.**
 
 
 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> _"From crafting simple games to exploring the depths of low-level programming, my coding journey has been a thrilling adventure of learning and creating. The best is yet to come!"_ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
