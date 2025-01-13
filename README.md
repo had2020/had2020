@@ -159,7 +159,7 @@ I found my coding soulmate in **Rust**, where I:
 <h2 align="center">🌐 Let’s Collaborate</h2>
 <p align="center">
   <a href="https://github.com/had2020"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/inhadrian-lazic"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/hadrian-lazic/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <p align="center"><i>✨ Together, we can shape the future of technology. ✨</i></p>
