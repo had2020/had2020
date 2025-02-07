@@ -41,6 +41,8 @@
 <ul>
   <li>🕹️ <a href="https://had2023.itch.io/clunky-ball">Clunky Ball</a></li>
   <li>🚗 <a href="https://had2023.itch.io/clone-rider">Clone Rider</a></li>
+  <li>🚗 <a href="https://had2023.itch.io/clone-rider">Clone Rider</a></li>
+  https://had2023.itch.io/transformative-velocity
 </ul>
 <p>🚀 Check out more of my creations on <a href="https://had2023.itch.io/">itch.io</a>.</p>
 
