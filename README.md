@@ -40,9 +40,8 @@
 <h2>🎮 My Video Game Work on Itch.io</h2>
 <ul>
   <li>🕹️ <a href="https://had2023.itch.io/clunky-ball">Clunky Ball</a></li>
-  <li>🚗 <a href="https://had2023.itch.io/clone-rider">Clone Rider</a></li>
-  <li>🚗 <a href="https://had2023.itch.io/clone-rider">Clone Rider</a></li>
-  https://had2023.itch.io/transformative-velocity
+  <li>𖥂 <a href="https://had2023.itch.io/clone-rider">Clone Rider</a></li>
+  <li>🚗 <a href="https://had2023.itch.io/transformative-velocity">Transformative Velocity</a></li>
 </ul>
 <p>🚀 Check out more of my creations on <a href="https://had2023.itch.io/">itch.io</a>.</p>
 
