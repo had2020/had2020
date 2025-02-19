@@ -3,12 +3,6 @@
 <h1 align="center">Hello, I'm Hadrian Lazic <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
 
 <div align="center">
-  <a href="https://www.codewars.com/users/had2020">
-    <img src="https://www.codewars.com/users/had2020/badges/large" alt="Codewars Badge">
-  </a>
-</div>
-
-<div align="center">
   <h3>👀 Visitors</h3>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="25" height="25" />
   <img src="https://profile-counter.glitch.me/{had2020}/count.svg" alt="Visitor Count">
