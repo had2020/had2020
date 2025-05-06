@@ -9,6 +9,8 @@
 </div>
 
 ---
+<a href="https://had2020.github.io/Hadrian-Lazic/"> My Personal Portfolio Website</a>
+---
 
 <h2>🧑‍💻 About Me</h2>
 <p>Hi, I'm <b>Hadrian (Had2020)</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" alt="Pointing Right" width="25" height="25" /> a <b>low-level-focused developer</b> passionate about reinventing the wheel for the experience <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="25" height="25" />—especially in <b>Rust</b> 🦀.</p>
