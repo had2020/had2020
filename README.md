@@ -9,7 +9,7 @@
 </div>
 
 ---
-<a href="https://had2020.github.io/Hadrian-Lazic/"> My Personal Portfolio Website</a>
+<a href="https://had2020.github.io/Hadrian-Lazic/"> 👉 My Personal Portfolio Website 👈</a>
 ---
 
 <h2>🧑‍💻 About Me</h2>
