@@ -135,7 +135,7 @@ Led an **amazing team**, where we crafted:
 ## ⚙️ **Low-Level Wizardry: Unlocking the Core**
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Growing%20Heart.webp" alt="Growing Heart" width="30" height="30" /> **Diving Deep**: My fascination with **C/C++** opened the door to a world of **low-level programming**.  
-✍️ A standout project? A custom **Vim-like text editor** that showcased my obsession with **efficiency and power**.  
+✍️ A standout project? A custom **Desktop app framework** that showcased my obsession with **efficiency and power**.  
 
 ### 🦀 **Rust: The Future of Performance**  
 I found my coding soulmate in **Rust**, where I:  
