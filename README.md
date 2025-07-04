@@ -62,7 +62,7 @@ impl Greeter for Dev {
 
 ### **Areas of Interest**
 
-Rust | Low-level systems | AI/ML | Cluster computing | DNA simulation | WebAssembly-free GUIs
+<p align="center"> <kbd>🦀 Rust</kbd> <kbd>⚙️ Low-level systems</kbd> <kbd>🧠 AI/ML</kbd> <kbd>☁️ Cluster computing</kbd> <kbd>🧬 DNA simulation</kbd> <kbd>🚫 WebAssembly-free GUIs</kbd> </p>
 
 ---
 
