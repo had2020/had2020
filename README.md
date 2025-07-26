@@ -6,7 +6,6 @@
   <a href="https://www.linkedin.com/in/hadrian-lazic-3922b1277"><img src="https://img.shields.io/badge/LinkedIn-Hadrian%20Lazic-blue?style=flat-square&logo=linkedin"/></a>
   <img src="https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust">
   <img src="https://img.shields.io/badge/-Low%20Level%20Systems-gray?style=flat-square">
-  <img src="https://img.shields.io/badge/-No%20WebAssembly-purple?style=flat-square">
 </p>
 
 ```rust
