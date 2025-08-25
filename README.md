@@ -1,14 +1,14 @@
 <h1 align="center">🦀 Hadrian Lazic (aka Had2020)</h1>
 <h3 align="center">🧬 Rust & Codecraft · I build tools, simulate Digital life, and make CPUs sweat!</h3>
 
-![Codewars](https://www.codewars.com/users/had2020/badges/large)
-
 <p align="center">
   <a href="mailto:hadrian.lazic@gmail.com"><img src="https://img.shields.io/badge/Email-hadrian.lazic@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hadrian-lazic-3922b1277"><img src="https://img.shields.io/badge/LinkedIn-Hadrian%20Lazic-blue?style=flat-square&logo=linkedin"/></a>
   <img src="https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust">
   <img src="https://img.shields.io/badge/-Low%20Level%20Systems-gray?style=flat-square">
 </p>
+
+![Codewars](https://www.codewars.com/users/had2020/badges/large)
 
 ```rust
 // main.rs - A Rust-powered intro
