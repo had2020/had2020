@@ -63,7 +63,7 @@ impl Greeter for Dev {
 
 ### **Areas of Interest**
 
-<p align="center"> <kbd>🦀 Rust</kbd> <kbd>⚙️ Low-level systems</kbd> <kbd>🧠 AI/ML</kbd> <kbd>☁️ Cluster computing</kbd> <kbd>🧬 DNA simulation</kbd> </p>
+<p align="center"> <kbd>🦀 Rust</kbd> <kbd>⚙️ Low-level systems</kbd> <kbd>🧠 AI/ML</kbd> <kbd>☁️ Cluster computing</kbd> <kbd>🧬 DNA simulation</kbd> <kbd>Solana </kbd> </p>
 
 ---
 
