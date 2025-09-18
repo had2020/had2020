@@ -52,15 +52,6 @@ impl Greeter for Dev {
 
 ---
 
-<div align="center">
-  <a href="https://github.com/had2020">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=had2020&layout=compact&hide=html,javascript,makefile,fluent,css&theme=radical" alt="Most Used Languages" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=had2020&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" alt="GitHub Stats" />
-  </a>
-</div>
-
----
-
 ### **Areas of Interest**
 
 <p align="center"> <kbd>🦀 Rust</kbd> <kbd>⚙️ Low-level systems</kbd> <kbd>🧠 AI/ML</kbd> <kbd>☁️ Cluster computing</kbd> <kbd>🧬 DNA simulation</kbd> <kbd>Solana </kbd> </p>
