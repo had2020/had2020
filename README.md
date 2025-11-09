@@ -1,5 +1,5 @@
 <h1 align="center">🦀 Hadrian Lazic (aka Had2020)</h1>
-<h3 align="center">🧬 Rust & Codecraft · I build tools, simulate Digital life, and make CPUs sweat!</h3>
+<h3 align="center">I make CPUs sweat!</h3>
 
 <p align="center">
   <a href="mailto:hadrian.lazic@gmail.com"><img src="https://img.shields.io/badge/Email-hadrian.lazic@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
