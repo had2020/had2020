@@ -22,9 +22,8 @@ fn main() {
 #[derive(Debug)]
 enum Lang {
     Rust, // My gem!
-    JavaScript,
-    Python,
-    HtmlCss,
+    C,
+    C++,
 }
 
 struct Dev {
