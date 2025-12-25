@@ -1,5 +1,5 @@
-<h1 align="center">🦀 Hadrian Lazic (aka Had2020)</h1>
-<h3 align="center">I make CPUs sweat!</h3>
+<h1 align="center">🦀 Hadrian Lazic (a.k.a. Had2020)</h1>
+<h3 align="center">"Avoid the heap, live on the stack & L1 cache!"</h3>
 
 <p align="center">
   <a href="mailto:hadrian.lazic@gmail.com"><img src="https://img.shields.io/badge/Email-hadrian.lazic@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -10,54 +10,22 @@
 
 ![Codewars](https://www.codewars.com/users/had2020/badges/large)
 
-```rust
-// main.rs - A Rust-powered intro
-fn main() {
-    let mut dev = Dev::new("Hadrian", Lang::Rust);
-    if !dev.has_greeted() {
-        dev.greet();
-    }
-}
-
-#[derive(Debug)]
-enum Lang {
-    Rust, // My gem!
-    C,
-    C++,
-}
-
-struct Dev {
-    name: &'static str,
-    fav_lang: Lang,
-    greeted: bool,
-}
-impl Dev {
-    fn new(name: &'static str, fav_lang: Lang) -> Self {
-        Self { name, fav_lang, greeted: false }
-    }
-}
-trait Greeter {
-    fn greet(&mut self);
-    fn has_greeted(&self) -> bool;
-}
-impl Greeter for Dev {
-    fn greet(&mut self) {
-        println!("Hello, world! I'm {} and I thrive in {:?}", self.name, self.fav_lang);
-        self.greeted = true;
-    }
-    fn has_greeted(&self) -> bool { self.greeted }
-}
-```
+My goal is Mechanical Sympathy in Rust. I build Rust libraries to learn by doing; trying to eke out the most from every cpu cycle possible, treating the hardware not as an abstraction, but as a partner in execution. To do this I focus on:
+* The Memory Hierarchy: Designing for L1/L2 cache residency. I utilize Data-Oriented Design (DOD) and strict 64-byte cache-line alignment to eliminate misses and false sharing.
+* The CPU Pipeline: Optimizing for the Hardware Prefetcher via linear access patterns. I minimize pipeline stalls through branchless programming, bit-manipulation, and std::intrinsics to keep the Branch Predictor saturated.
+* Execution concurrency: Maximizing ILP (Instruction Level Parallelism) and Out-of-Order execution by breaking data dependencies. I leverage SIMD (AVX-512/NEON) and inline assembly when the compiler reaches its limit.
+* Zero-Cost Resource Management: Eliminating pointer indirection by prioritizing stack allocation and pre-allocated arenas over the heap.
+"I only care if it is possible to improve, no matter the difficulty. Code is an Art! And at my very best, my goal is to write code that honors the most complex human invention ever, the microprocessor."
 
 ---
 
 ### **Things I like**
 
-<p align="center"> <kbd>🦀 Rust</kbd> <kbd>⚙️ Low-level systems</kbd> <kbd>☁️ Cluster computing</kbd> <kbd>🧬 Genetical simulations</kbd> <kbd>Solana </kbd> </p>
+<p align="center"> <kbd>🦀 Rust</kbd> <kbd>The stack Ofc!</kbd> <kbd>Branchless logic!</kbd> <kbd>⚙️ Risc-V Embedded systems</kbd> <kbd> 🧬 Evolving Code</kbd> <kbd> Parallelism even though it hurts</kbd> </p>
 
 ---
 
-### **You can Reach me at**
+### **If you need to reach me you can:**
 > ✉️ <b>Email:</b> <a href="mailto:hadrian.lazic@gmail.com">hadrian.lazic@gmail.com</a>
 
 > 💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/hadrian-lazic-3922b1277">Hadrian Lazic</a>
