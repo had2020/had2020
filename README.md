@@ -16,7 +16,9 @@
 
 ### My goal is `Mechanical Sympathy` in Rust. I build Rust libraries to learn by doing; 
 
-trying to eke out the most from every cpu cycle possible, treating the hardware not as an abstraction, but as a partner in execution. 
+trying to eke out the most from every cpu cycle possible, seeing the hardware not as an abstraction, but as a key in execution. 
+
+---
 
 To do this I focus on:
 
@@ -24,7 +26,7 @@ To do this I focus on:
   
 + `CPU Pipeline`: Optimizing for the Hardware Prefetcher via linear access patterns. I minimize pipeline stalls through branchless programming, bit-manipulation, and std::intrinsics to keep the Branch Predictor saturated.
 
-+ `Execution concurrency`: Maximizing ILP (Instruction Level Parallelism) and Out-of-Order execution by breaking data dependencies. I leverage SIMD (AVX-512/NEON) and inline assembly when the compiler reaches its limit.
++ `Execution concurrency`: Maximizing ILP (Instruction Level Parallelism) and Out-of-Order execution by breaking data dependencies. I leverage SIMD and inline assembly when the compiler reaches its limit.
   
 + `Zero-Cost Resource Management`: Eliminating pointer indirection by prioritizing stack allocation and pre-allocated arenas over the heap.
 
@@ -38,7 +40,7 @@ To do this I focus on:
 
 ---
 
-### **If you want to reach me you can:**
+### **Interrupt Service Routine**
 > ✉️ <b>Email:</b> <a href="mailto:hadrian.lazic@gmail.com">hadrian.lazic@gmail.com</a>
 >
 > 💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/hadrian-lazic-3922b1277">Hadrian Lazic</a>
