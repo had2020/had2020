@@ -1,4 +1,4 @@
-<h1 align="center">🦀 Hadrian Lazic (a.k.a. Had2020)</h1>
+<h1 align="center">[RUST 🦀]: Hadrian Lazic (a.k.a. Had2020)</h1>
 <h3 align="center">"Avoid the heap, live on the stack & L1 cache!"</h3>
 
 <p align="center">
@@ -8,24 +8,37 @@
   <img src="https://img.shields.io/badge/-Low%20Level%20Systems-gray?style=flat-square">
 </p>
 
+---
+
 ![Codewars](https://www.codewars.com/users/had2020/badges/large)
 
-My goal is Mechanical Sympathy in Rust. I build Rust libraries to learn by doing; trying to eke out the most from every cpu cycle possible, treating the hardware not as an abstraction, but as a partner in execution. To do this I focus on:
-* The Memory Hierarchy: Designing for L1/L2 cache residency. I utilize Data-Oriented Design (DOD) and strict 64-byte cache-line alignment to eliminate misses and false sharing.
-* The CPU Pipeline: Optimizing for the Hardware Prefetcher via linear access patterns. I minimize pipeline stalls through branchless programming, bit-manipulation, and std::intrinsics to keep the Branch Predictor saturated.
-* Execution concurrency: Maximizing ILP (Instruction Level Parallelism) and Out-of-Order execution by breaking data dependencies. I leverage SIMD (AVX-512/NEON) and inline assembly when the compiler reaches its limit.
-* Zero-Cost Resource Management: Eliminating pointer indirection by prioritizing stack allocation and pre-allocated arenas over the heap.
-"I only care if it is possible to improve, no matter the difficulty. Code is an Art! And at my very best, my goal is to write code that honors the most complex human invention ever, the microprocessor."
+---
+
+### My goal is `Mechanical Sympathy` in Rust. I build Rust libraries to learn by doing; 
+
+trying to eke out the most from every cpu cycle possible, treating the hardware not as an abstraction, but as a partner in execution. 
+
+To do this I focus on:
+
++ `Memory Hierarchy`: Designing for L1/L2 cache residency. I utilize Data-Oriented Design (DOD) and strict 64-byte cache-line alignment to eliminate misses and false sharing.
+  
++ `CPU Pipeline`: Optimizing for the Hardware Prefetcher via linear access patterns. I minimize pipeline stalls through branchless programming, bit-manipulation, and std::intrinsics to keep the Branch Predictor saturated.
+
++ `Execution concurrency`: Maximizing ILP (Instruction Level Parallelism) and Out-of-Order execution by breaking data dependencies. I leverage SIMD (AVX-512/NEON) and inline assembly when the compiler reaches its limit.
+  
++ `Zero-Cost Resource Management`: Eliminating pointer indirection by prioritizing stack allocation and pre-allocated arenas over the heap.
+
+> "I only care if it is possible to improve, no matter the difficulty. Code is an Art! And at my very best, my goal is to write code that honors the most complex human invention ever, the microprocessor."
 
 ---
 
-### **Things I like**
+### **Things I like:**
 
-<p align="center"> <kbd>🦀 Rust</kbd> <kbd>The stack Ofc!</kbd> <kbd>Branchless logic!</kbd> <kbd>⚙️ Risc-V Embedded systems</kbd> <kbd> 🧬 Evolving Code</kbd> <kbd> Parallelism even though it hurts</kbd> </p>
+<p align="center"> <kbd>🦀 Rust</kbd> <kbd>⚡ Performance Engineering</kbd> <kbd>The stack Ofc!</kbd> <kbd>Branchless logic!</kbd> <kbd>⚙️ Risc-V Embedded systems</kbd> <kbd> 🧬 Evolving Code</kbd> <kbd> Parallelism even though it hurts</kbd> </p>
 
 ---
 
-### **If you need to reach me you can:**
+### **If you want to reach me you can:**
 > ✉️ <b>Email:</b> <a href="mailto:hadrian.lazic@gmail.com">hadrian.lazic@gmail.com</a>
-
+>
 > 💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/hadrian-lazic-3922b1277">Hadrian Lazic</a>
