@@ -44,6 +44,12 @@ To do this I focus on:
 
 ---
 
+I am currently transitioning my development workflow to a private, air-gapped infrastructure to focus on high-assurance systems and advanced microarchitectural research. Moving forward, this profile will host deterministic performance tools and academic projects related to my studies.
+
+Focus areas for 2026: FPGA-acceleration, fetchable L1 cache-resident logic, and discrete mathematical models."
+
+---
+
 ### **Interrupt Service Routine**
 > ✉️ <b>Email:</b> <a href="mailto:hadrian.lazic@gmail.com">hadrian.lazic@gmail.com</a>
 >
