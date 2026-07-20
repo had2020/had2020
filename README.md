@@ -48,7 +48,7 @@ To do this I focus on:
 
 I am currently transitioning my development workflow to a private, wire guarded forgejo git server infrastructure to focus on high-assurance systems and advanced microarchitectural research. Moving forward, this profile will host deterministic performance tools and academic projects related to my studies.
 
-Focus areas for 2026: FPGA-acceleration, fetchable L1 cache-resident logic, and discrete mathematical models.
+My personal focus areas for 2026: Embedded Systems, fetchable L1 cache-resident logic, Compiler Backend, and Stacked based Virtual Machines like WASM.
 
 ---
 
