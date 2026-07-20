@@ -18,7 +18,7 @@
 
 ### My goal is `Mechanical Sympathy` in Rust. I build Rust libraries to learn by doing; 
 
-trying to eke out the most from every cpu cycle possible, seeing the hardware not as an abstraction, but as a key in execution. 
+trying to eke out the most from every cycle possible, seeing the hardware not as an abstraction, but as a key in execution. 
 
 ---
 
