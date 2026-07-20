@@ -14,10 +14,6 @@
 
 ---
 
-<p align="center">
-  <img width="500" src="https://github.com/user-attachments/assets/c45dda8f-655b-4276-8730-b9dfb7c2c576" alt="Rust Renegade Logo" />
-</p>
-
 ( My Published Rust Crates ) ---> https://crates.io/users/had2020
 
 ### My goal is `Mechanical Sympathy` in Rust. I build Rust libraries to learn by doing; 
