@@ -26,7 +26,7 @@ To do this I focus on:
   
 + `CPU Pipeline`: Optimizing for the Hardware Prefetcher via linear access patterns. I minimize pipeline stalls through branchless programming, bit-manipulation, and std::intrinsics to keep the Branch Predictor saturated.
 
-+ `Execution concurrency`: Maximizing ILP (Instruction Level Parallelism) and Out-of-Order execution by breaking data dependencies. I leverage SIMD and inline assembly when the compiler reaches its limit.
++ `Execution concurrency`: Maximizing ILP (Instruction Level Parallelism) and Out-of-Order execution by breaking data dependencies. I leverage Double Buffers, DoD structures, and inline assembly when the compiler reaches its limit.
   
 + `Zero-Cost Resource Management`: Eliminating pointer indirection by prioritizing stack allocation and pre-allocated arenas over the heap.
 
