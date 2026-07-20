@@ -10,11 +10,9 @@
 
 ---
 
-![Codewars](https://www.codewars.com/users/had2020/badges/large)
+![Codewars](https://www.codewars.com/users/had2020/badges/large)   ( My Published Rust Crates ) ---> https://crates.io/users/had2020
 
 ---
-
-( My Published Rust Crates ) ---> https://crates.io/users/had2020
 
 ### My goal is `Mechanical Sympathy` in Rust. I build Rust libraries to learn by doing; 
 
@@ -35,8 +33,6 @@ To do this I focus on:
 > "I only care if it is possible to improve, no matter the difficulty. Code is an Art! And at my very best, my goal is to write code that honors the most complex human invention ever, the microprocessor."
 
 ---
-
-### **Things I like:**
 
 <p align="center"> <kbd>🦀 Rust</kbd> <kbd>⚡ Performance Engineering</kbd> <kbd>The stack Ofc!</kbd> <kbd>Branchless logic!</kbd> <kbd>⚙️ Risc-V Embedded systems</kbd> <kbd> 🧬 Evolving Code</kbd> <kbd> Parallelism even though it hurts</kbd> </p>
 
