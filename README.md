@@ -34,7 +34,7 @@ To do this I focus on:
 
 ---
 
-<p align="center"> <kbd>My Focus Points<kbd> <kbd>C/C++</kbd> <kbd>🦀 Rust</kbd> <kbd>⚡ Performance Engineering</kbd> <kbd>The stack Ofc!</kbd> <kbd>Branchless logic!</kbd> <kbd>⚙️ Risc-V Embedded systems</kbd> <kbd> 🧬 Fuzzing-Code</kbd> <kbd> Parallelism even though it hurts</kbd> <kdb>Compiler Backend</kdb> </p>
+<p align="center"> <kbd>My Focus Points<kbd> <kbd>C/C++</kbd> <kbd>🦀 Rust</kbd> <kbd>⚡ Performance Engineering</kbd> <kbd>The stack Ofc!</kbd> <kbd>Branchless logic!</kbd> <kbd>⚙️ Risc-V Embedded systems</kbd> <kbd> 🧬 Fuzzing-Code</kbd> <kbd> Parallelism even though it hurts</kbd> </p>
 
 ---
 
