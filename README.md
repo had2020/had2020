@@ -10,7 +10,7 @@
 
 ---
 
-![Codewars](https://www.codewars.com/users/had2020/badges/large)   ( My Published Rust Crates ) ---> https://crates.io/users/had2020
+( My Published Rust Crates ) ---> https://crates.io/users/had2020
 
 ---
 
