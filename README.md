@@ -1,4 +1,4 @@
-<h1 align="center">[RUST 🦀]: Hadrian Lazic (a.k.a. Had2020)</h1>
+<h1 align="center">[C/C++ and Rust]: Hadrian Lazic (a.k.a. Had2020)</h1>
 <h3 align="center">"Avoid the heap, live on the stack & L1 cache!"</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-### My goal is `Mechanical Sympathy` in Rust. I build Rust libraries to learn by doing; 
+### My goal is `Mechanical Sympathy` in low-level programming. I build to learn by doing; 
 
 trying to eke out the most from every cycle possible, seeing the hardware not as an abstraction, but as a key in execution. 
 
@@ -28,19 +28,13 @@ To do this I focus on:
 
 + `Execution concurrency`: Maximizing ILP (Instruction Level Parallelism) and Out-of-Order execution by breaking data dependencies. I leverage Double Buffers, DoD structures, and inline assembly when the compiler reaches its limit.
   
-+ `Zero-Cost Resource Management`: Eliminating pointer indirection by prioritizing stack allocation and pre-allocated arenas over the heap.
++ `Zero-Cost Resource Management`: Eliminating pointer indirection by prioritizing stack allocation and pre-allocated arenas over a heap of objects.
 
 > "I only care if it is possible to improve, no matter the difficulty. Code is an Art! And at my very best, my goal is to write code that honors the most complex human invention ever, the microprocessor."
 
 ---
 
-<p align="center"> <kbd>🦀 Rust</kbd> <kbd>⚡ Performance Engineering</kbd> <kbd>The stack Ofc!</kbd> <kbd>Branchless logic!</kbd> <kbd>⚙️ Risc-V Embedded systems</kbd> <kbd> 🧬 Evolving Code</kbd> <kbd> Parallelism even though it hurts</kbd> </p>
-
----
-
-I am currently transitioning my development workflow to a private, wire guarded forgejo git server infrastructure to focus on high-assurance systems and advanced microarchitectural research. Moving forward, this profile will host deterministic performance tools and academic projects related to my studies.
-
-My personal focus areas for 2026: Embedded Systems, fetchable L1 cache-resident logic, Compiler Backend, and Stacked based Virtual Machines like WASM.
+<p align="center"> <kbd>My Focus Points<kbd> <kbd>C/C++</kbd> <kbd>🦀 Rust</kbd> <kbd>⚡ Performance Engineering</kbd> <kbd>The stack Ofc!</kbd> <kbd>Branchless logic!</kbd> <kbd>⚙️ Risc-V Embedded systems</kbd> <kbd> 🧬 Fuzzing-Code</kbd> <kbd> Parallelism even though it hurts</kbd> <kdb>Compiler Backend</kdb> </p>
 
 ---
 
