@@ -10,7 +10,9 @@
 
 ---
 
-( My Published Rust Crates ) ---> https://crates.io/users/had2020
+| **My Rust Crates** | **My Codewars Badge** |
+| :---: | :---: |
+| [![Crates.io](https://img.shields.io/badge/crates.io-had2020-e43717?style=for-the-badge&logo=rust&logoColor=white)](https://crates.io/users/had2020) | [![Codewars](https://www.codewars.com/users/had2020/badges/small)](https://www.codewars.com/users/had2020) |
 
 ---
 
