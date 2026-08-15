@@ -37,10 +37,3 @@ To do this I focus on:
 ---
 
 <p align="center"> <kbd>My Focus Points<kbd> <kbd>C/C++</kbd> <kbd>🦀 Rust</kbd> <kbd>⚡ Performance Engineering</kbd> <kbd>The stack Ofc!</kbd> <kbd>Branchless logic!</kbd> <kbd>⚙️ Risc-V Embedded systems</kbd> <kbd> 🧬 Fuzzing-Code</kbd> <kbd> Parallelism even though it hurts</kbd> </p>
-
----
-
-### **Interrupt Service Routine**
-> ✉️ <b>Email:</b> <a href="mailto:hadrian.lazic@gmail.com">hadrian.lazic@gmail.com</a>
->
-> 💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/hadrian-lazic-3922b1277">Hadrian Lazic</a>
